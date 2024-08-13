@@ -1,0 +1,9 @@
+chat.html
+discovery.html
+editor.html
+g.html
+gc.html
+gpts.html
+mine.html
+share.html
+slug.html

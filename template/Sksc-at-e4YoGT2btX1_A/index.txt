@@ -1,0 +1,12 @@
+chat.html
+data.json
+discovery.html
+editor.html
+g.html
+gc.html
+gpts.html
+index.txt
+mine.html
+share.html
+slug.html
+status.html
