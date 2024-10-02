@@ -1,3 +1,0 @@
-data.json
-index.txt
-template.html
