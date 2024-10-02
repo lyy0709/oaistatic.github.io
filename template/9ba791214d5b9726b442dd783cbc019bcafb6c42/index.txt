@@ -1,4 +1,3 @@
-index.html
 gptsmine.html
 gpts.html
 gizmo.html
